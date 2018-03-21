@@ -2,7 +2,7 @@ FROM alpine:3.7
 LABEL MAINTAINER="José Carlos Paiva <josepaiva94@gmail.com>,José Paulo Leal <zp@dcc.fc.up.pt>"
 
 # Mooshak environment variables
-ENV MOOSHAK_VERSION 1.6.2
+ENV MOOSHAK_VERSION 1.6.3
 
 # language environment variables
 ENV LC_ALL=en_US.UTF-8 \
